@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<div class="jumbotron text-center" style="margin-bottom:0">
+<div class="jumbotron text-center" style="margin-bottom:">
   <h1>Nathan Pon's website</h1>
   <p>CCSF student, coder, gamer, I love action RPGS, desserts and anything sci fi</p> 
 </div>
@@ -41,14 +41,14 @@
 <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
-      <h2>About Me</h2>
-      <P> I was born and raised in San Francisco California as the third child of an upper middle class Asian family. I attended George Washington High aschool from 2013 to 2017 and am currently enrolled at City College of San Fransisco. I am proficient in Basic HTML CSS and Javascript. Although it has been awhile since I have last utilized them, I am currently in the process of getting back on track with this website being a major front.  Growing up in one of the most expensive cities in the U.S. has made me realize how fortunate I am compared to others.  </P>
-      <p>My Greatest Achievement; speaking at my high school graduation (photo is from the SF Examiner)</p>
-        <img src =" http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/AP5T1525-copy.jpg" width="600" height="382"
-      
+      <img src =" http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/AP5T1525-copy.jpg" alt="Podium speech" width="600" height="382" title=">My Greatest Achievement; speaking at my high school graduation (photo is from the SF Examiner)" style="float: left">
+ 
+    <h1>About Me</h1>
+      <p> I was born and raised in San Francisco California as the third child of an upper middle class Asian family. I attended George Washington High aschool from 2013 to 2017 and am currently enrolled at City College of San Fransisco. I am proficient in Basic HTML CSS and Javascript. Although it has been awhile since I have last utilized them, I am currently in the process of getting back on track with this website being a major front.  Growing up in one of the most expensive cities in the U.S. has made me realize how fortunate I am compared to others.  </p>
+    
     <br> 
         <h2> Profiles </h2>
-      <p>My Social media profiles, if you want to learn more about me</p>
+      <p>My social media profiles, if you want to learn more about me</p>
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
           <a class="nav-link" href="https://www.facebook.com/nathan.pon.7">Facebook</a>
@@ -69,7 +69,7 @@
 </div>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Footer</p>
+  
 </div>
 
 </body>
