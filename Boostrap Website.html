@@ -11,11 +11,11 @@
   <style>
   </style>
 </head>
-<body>
+<body style="background-color: lightgoldenrodyellow">
 
-<div class="jumbotron text-center" style="margin-bottom:">
-  <h1>Nathan Pon's website</h1>
-  <p>CCSF student, coder, gamer, I love action RPGS, desserts and anything sci fi</p> 
+<div class="jumbotron text-center" >
+  <h1>Nathan Pon's Website</h1>
+  <marquee direction="left">CCSF student, coder, gamer, I love Action RPGS, desserts and anything sci fi</marquee> 
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -44,7 +44,9 @@
       <img src =" http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/AP5T1525-copy.jpg" alt="Podium speech" width="600" height="382" title=">My Greatest Achievement; speaking at my high school graduation (photo is from the SF Examiner)" style="float: left">
  
     <h1>About Me</h1>
-      <p> I was born and raised in San Francisco California as the third child of an upper middle class Asian family. I attended George Washington High aschool from 2013 to 2017 and am currently enrolled at City College of San Fransisco. I am proficient in Basic HTML CSS and Javascript. Although it has been awhile since I have last utilized them, I am currently in the process of getting back on track with this website being a major front.  Growing up in one of the most expensive cities in the U.S. has made me realize how fortunate I am compared to others.  </p>
+        <div> <marquee direction="right">Hello </marquee>              </div>
+        <div> <marquee direction="left"> Everyone </marquee>         </div> 
+      <p> I was born and raised in San Francisco California as the third child of an upper middle class Asian family. I attended George Washington High aschool from 2013 to 2017 and am currently enrolled at City College of San Fransisco. I am proficient in Basic HTML, CSS and Javascript. Although it has been awhile since I have last utilized them, I am currently in the process of getting back on track, with this website being a major front.  Growing up in one of the most expensive cities in the U.S. has made me realize how fortunate I am compared to others.  </p>
     
     <br> 
         <h2> Profiles </h2>
@@ -67,10 +69,5 @@
     </div>
   </div>
 </div>
-
-<div class="jumbotron text-center" style="margin-bottom:0">
-  
-</div>
-
 </body>
 </html>
