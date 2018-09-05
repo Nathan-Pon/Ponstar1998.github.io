@@ -3,7 +3,7 @@
 <head>
   <title>Nathan Pon's Website</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=2">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -13,7 +13,7 @@
 </head>
 <body style="background-color: lightgoldenrodyellow">
 
-<div class="jumbotron text-center" >
+<div class="jumbotron text-center" style="background-color: palegoldenrod">
   <h1>Nathan Pon's Website</h1>
   <marquee direction="left">CCSF student, coder, gamer, I love Action RPGS, desserts and anything sci fi</marquee> 
 </div>
@@ -26,7 +26,7 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Projects</a>
+        <a class="nav-link" href="Projects%20Page.html">Projects</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Favorites</a>
@@ -38,10 +38,10 @@
   </div>  
 </nav>
 
-<div class="container" style="margin-top:30px">
+<div class="container" style="margin-top:20px">
   <div class="row">
     <div class="col-sm-4">
-      <img src =" http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/AP5T1525-copy.jpg" alt="Podium speech" width="600" height="382" title=">My Greatest Achievement; speaking at my high school graduation (photo is from the SF Examiner)" style="float: left">
+      <img src =" http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/AP5T1525-copy.jpg" class="rounded-circle" alt="Podium speech" width="600" height="382" title=">My Greatest Achievement; speaking at my high school graduation (photo is from the SF Examiner)" style="float: left">
  
     <h1>About Me</h1>
         <div> <marquee direction="right">Hello </marquee>              </div>
